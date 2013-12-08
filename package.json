@@ -1,0 +1,15 @@
+{
+	"name": "array-sample",
+	"version": "0.1.0",
+	"author": "Jonah Stiennon <jonahss@gmail.com>",
+	"description": "Array extension to sample random elements",
+	"main": "sample.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jonahss/array-sample.git"
+	},
+	"license" : "MIT",
+	"engines" : {
+		"node": ">=0.10.15"
+	}
+}
